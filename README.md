@@ -1,4 +1,4 @@
-- Python Programmer || Petroleum Engineer in training || Data Scientist
+- Python Programmer || Petroleum Engineer || Data Scientist
 <!---
 Arturo-K/Arturo-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
