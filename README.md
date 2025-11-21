@@ -48,7 +48,7 @@ I am a versatile consultant and developer bridging the gap between **physical en
 ---
 
 ### ⚡ Fun Facts & Interests
-* 🏃‍♂️ **Running:** Yes, I am on Strava! [cite: 40]
+* 🏃‍♂️ **Running:** Yes, I am on Strava!
 * 🍯 **Apiculture:** I am an active Beekeeper (and use AI to help manage it!).
 * 🏆 **Recognition:** Awarded "Curious Collaborator" and Employee of the Month at African Originals.
 
@@ -57,7 +57,7 @@ I am a versatile consultant and developer bridging the gap between **physical en
 ### 📫 Connect with Me
 * **Portfolio:** [arthurkisaka.site](https://arthurkisaka.site)
 * **Email:** m.arthurkisaka@gmail.com
-* **LinkedIn:** (https://www.linkedin.com/in/arthur-k-1284b7121/)
+* **LinkedIn:** [Arthur Kisaka](https://www.linkedin.com/in/arthur-k-1284b7121/)
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arturo-K&show_icons=true&theme=radical)
 <!---
