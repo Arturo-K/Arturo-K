@@ -41,9 +41,11 @@ I am a versatile consultant and developer bridging the gap between **physical en
     * *Description:* Integrating AI agents to streamline supply chain and aggregation for my honey distribution business.
     * *Tech:* n8n
 
-#### 📊 **Data & Innovation**
-* **Project Name:** *Geophysical-Data-Analysis*
-    * *Description:* Leveraging data analysis for energy and geophysical applications.
+#### 📊 **Geospatial & Seismic Data Analysis**
+* **Project Name:** *kisima GeoAI agent*
+    * *Description:* An AI-powered geospatial analysis platform that translates natural language queries into seismic risk assessments and spatial analyses. Built with LangChain, LangGraph, Ollama and Gradio.
+    * *Tech:* Python, Langgraph, Langchain, Ollama, Gradio
+    * [Repository Link](https://github.com/Arturo-K/kisima-GeoAI-agent)
 
 ---
 
